@@ -15,3 +15,10 @@ Les développeurs peuvent attacher de l'importance à différents aspects du cod
 - Rendre les modifications du code plus simple et ce sans régressions. 
 - Réduire le temps de découverte et de corrections des bugs et rendre le processus de déboguage plus simple. 
 - Simplifier l'exploration du projet par de nouveaux développeurs. 
+
+Cette liste est incomplete. D'autres éléments peuvent être nécessaires à une équipe en particulier, ces éléments varient de projet en projet. 
+
+Des refactorisation régulières peuvent aider à résoudre les problèmes de qualité du code avant que des problèmes n'apparaissent. Cela permet de rendre le travail au jour-le-jour plus efficacce et donne aux développeurs du temps supplémentaires et permet d'éviter de gros refactoring dans le future. 
+
+## Les bénéfices pour le business
+
