@@ -22,3 +22,9 @@ Des refactorisation régulières peuvent aider à résoudre les problèmes de qu
 
 ## Les bénéfices pour le business
 
+Dans un processus de développement parfaitement organisé, il n'y a pas besoin de "vendre" le refactoring au business.
+// TODO Define business
+Dans de tels projets, l'amélioration continue du code est au coeur du développement, et le "mauvais code" ne s'accumule pas, il n'est donc pas nécessaire d'expliquer les bénéfices d'une refactorisation dans ce cas.
+
+En revanche, il existe des projets où le développement est organisé autrement pour différentes raisons. Dans de tels projets, du vieux code à tendance à s'accumuler.
+
